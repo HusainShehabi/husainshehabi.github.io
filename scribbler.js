@@ -13,14 +13,14 @@ var getAll = function (selector, scope) {
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `Hello World!
-            I'm Husain Ebrahim
+            I'm Husain Shehabi
             [Entry mode; press Ctrl+D to save and quit; press Ctrl+C to quit without saving]
 
             ###todo
             - Introduction 👋
             - Current learning
 
-            I am an ICT Graduate from Bahrain Polytechnic, looking to further develop my skills, gain professional work experience, and get the opportunity to be an asset. I am a driven individual with the ability to adapt to any situation and willing to learn and grow my skillset.
+            I am an ICT Graduate from Bahrain Polytechnic, looking to further develop my skills and gain professional work experience. I am a driven individual with the ability to adapt to any situation and willing to learn and grow my skillset.
             
             I am currently learning the MEAN Stack (Mongo DB, Express, Angular.js, Node.js) for web development and Flutter for mobile development.`;
   var speed = 25;
